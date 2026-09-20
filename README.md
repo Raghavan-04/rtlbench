@@ -115,9 +115,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 - [Yosys Open SYnthesis Suite](https://yosyshq.net/yosys/)
 - [Eclipse Layout Kernel (ELK)](https://www.eclipse.org/elk/)
 - Built with ❤️ for the open-source hardware community.
-```
-
-### 💡 Pro-tips for your README:
-1. **Add a GIF or Screenshot:** At the very top of the README, right under the badges, insert the animated schematic GIF or a screenshot of the studio. It's the first thing people look at. You can use the one from your landing page.
-2. **Badges:** The badges at the top (`![License]`, etc.) make it look very professional. You can customize them if you want.
-3. **Keep it updated:** As you add features, update the "Features" list and the "Pipeline" section.
